@@ -4,8 +4,6 @@
 
 > 2000.10.18
 
-> **BackEnd Engineer**
-
 > Kyungpook National University
 
 > Major: **Computer Science**
