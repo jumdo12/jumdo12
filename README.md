@@ -35,11 +35,4 @@
   </p>
 </div>
 
----
-
-### 🎯 알고리즘 문제 해결
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jumdo257576)](https://solved.ac/jumdo257576)
-
----
-
 방문해 주셔서 감사합니다! 😊
