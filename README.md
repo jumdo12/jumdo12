@@ -6,8 +6,6 @@
 
 > Kyungpook National University
 
-> Major: **Computer Science**
-
 > **WoowaCourse** 7th BE
 
 ***
